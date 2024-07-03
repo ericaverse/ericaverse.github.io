@@ -36,6 +36,7 @@ header {
   font-size: 2em;
   justify-content: center;
   font-weight: 800;
+  border: none;
 }
 
 /*hr style*/
