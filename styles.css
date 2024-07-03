@@ -19,12 +19,14 @@ body {
   margin: -20em;
   top: 0%;
   height: fit-content;
+  border: 0;
 }
 .logo-outer {
   display: inline-block;
   margin: -5em;
   top: 0%;
   height: fit-content;
+  border: 0;
 }
 img {
   color: rgb(188, 12, 241);
